@@ -1,0 +1,13 @@
+{
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "Fira Code, monospace",
+  "editor.fontWeight": "300",
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": -0.2,
+  "html.format.wrapAttributes": "force-aligned",
+  "css.lint.important": "warning",
+  "scss.lint.important": "warning",
+}
